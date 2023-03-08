@@ -1,0 +1,17 @@
+.mainHeader{
+    position: fixed;
+    color: white;
+    background: black;
+    background-position: center !important;
+    top: -25px;
+    width: 1920px;
+    height: 60px;
+}
+.content{
+    margin-top: 55px;
+    background: grey;
+}
+.footer{
+    background: black;
+    color: white;
+}
